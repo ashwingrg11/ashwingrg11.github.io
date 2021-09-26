@@ -895,6 +895,7 @@ main{
   }
   .job-titles .jobs-company span{
     padding: 0px 20px;
+    font-size: 14px;
   }
   .job-titles .jobs-company.active{
     border-left: 0;
