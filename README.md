@@ -1,2 +1,2 @@
 # Ashwin Gurung
-Personal website
+Personal website (HTML-CSS-JS)
